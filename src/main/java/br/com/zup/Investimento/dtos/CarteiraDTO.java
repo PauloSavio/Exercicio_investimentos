@@ -1,4 +1,4 @@
-package br.com.zup.Investimento.DTOs;
+package br.com.zup.Investimento.dtos;
 
 import lombok.Data;
 

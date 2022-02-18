@@ -1,4 +1,4 @@
-package br.com.zup.Investimento.Enums;
+package br.com.zup.Investimento.enums;
 
 public enum Risco {
     BAIXO(0.005),

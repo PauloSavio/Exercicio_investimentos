@@ -1,6 +1,6 @@
-package br.com.zup.Investimento.DTOs;
+package br.com.zup.Investimento.dtos;
 
-import br.com.zup.Investimento.Enums.Risco;
+import br.com.zup.Investimento.enums.Risco;
 import org.hibernate.validator.constraints.br.CPF;
 
 import javax.validation.constraints.Email;
